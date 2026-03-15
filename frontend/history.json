@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "3523fcc5-649d-4825-b079-d3dd37695aca",
+    "prompt": "A high energy synthwave pop fusion",
+    "timestamp": "2025-12-27 15:10:55",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A high energy synthwave pop fusion",
+    "audio_files": {
+      "wav": "generated/music_1766826895.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 84.41,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 81.13,
+        "duration_accuracy": 99.1,
+        "silence_detection": 99.56,
+        "dynamic_range": 73.04,
+        "frequency_balance": 76.9,
+        "energy_level": 74.35,
+        "tempo_detection": 100.0,
+        "spectral_characteristics": 68.66
+      },
+      "analysis": {
+        "quality_level": "Good",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Good",
+        "frequency_distribution": "Balanced",
+        "energy_match": "Matches Expected",
+        "recommendations": []
+      },
+      "file_info": {
+        "duration": 14.82,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 948524
+      },
+      "timestamp": "2025-12-27T15:12:10.451940"
+    }
+  },
+  {
+    "id": "62e2124e-d8cc-42ac-9412-0a32dcf18bd5",
+    "prompt": "A high energy synthwave pop fusion",
+    "timestamp": "2025-12-27 14:44:55",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A high energy synthwave pop fusion",
+    "audio_files": {
+      "wav": "generated/music_1766826895.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "e000863a-432e-414b-891d-32ad13375fb3",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-24 17:39:20",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766576826.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "c66eeca5-2158-4a01-bfbf-21742ced8b7b",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-24 17:35:57",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766576724.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "39e13994-0570-47ba-a81c-4fe12a57bfbd",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-24 17:17:59",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766576826.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "d1d59ab9-b62d-4a3d-be23-e57da083bb29",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-24 17:17:43",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766576826.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "34d1870d-230c-46a0-ba98-81591ea22796",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-24 17:17:06",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766576826.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "45a8dace-22c2-4b40-bac3-545d2b9e7f69",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-24 17:15:24",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766576724.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "40ce8e49-1a9c-4d27-be44-f21af741aa29",
+    "prompt": "A cool natural drums music",
+    "timestamp": "2025-12-24 17:14:21",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A cool natural drums music",
+    "audio_files": {
+      "wav": "generated/music_1766576661.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "6cdec9d4-c9ed-4fb2-a065-b901318694e1",
+    "prompt": "A cool natural music",
+    "timestamp": "2025-12-24 17:11:58",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A cool natural music",
+    "audio_files": {
+      "wav": "generated/music_1766575841.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "27ed99e3-0c8a-4345-a0d9-c666327ec645",
+    "prompt": "A cool natural music",
+    "timestamp": "2025-12-24 17:00:42",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A cool natural music",
+    "audio_files": {
+      "wav": "generated/music_1766575841.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "ef02c2b2-f68f-4bf4-aab0-6a665405343a",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-22 17:37:21",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766405241.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "ac6aba0d-abe0-43f9-9c64-8e5dd4edeb3a",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-22 17:33:57",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766405037.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "39416beb-086b-47e0-ad9a-1e7e1e69f2c4",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-22 12:52:38",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766388158.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [
+      {
+        "timestamp": "2025-12-22 13:06:21",
+        "rating": 4,
+        "thumbs": null,
+        "category": "🎨 Creative composition",
+        "comment": null
+      }
+    ],
+    "quality": {
+      "overall": 79.91,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 94.38,
+        "duration_accuracy": 99.1,
+        "silence_detection": 99.05,
+        "dynamic_range": 74.59,
+        "frequency_balance": 61.47,
+        "energy_level": 61.01,
+        "tempo_detection": 62.22,
+        "spectral_characteristics": 70.66
+      },
+      "analysis": {
+        "quality_level": "Excellent",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Good",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Energy Mismatch",
+        "recommendations": [
+          "Improve frequency balance across spectrum"
+        ]
+      },
+      "file_info": {
+        "duration": 14.82,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 948524
+      },
+      "timestamp": "2025-12-22T12:53:50.569577"
+    }
+  },
+  {
+    "id": "71d0ad2c-041b-4952-b562-b039241af285",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 06:06:15",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766277375.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "79e9074a-53c8-492e-b21b-b7800b148cb0",
+    "prompt": "Lo-fi chillhop with rainy mood",
+    "timestamp": "2025-12-21 05:41:32",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Lo-fi chillhop with rainy mood",
+    "audio_files": {
+      "wav": "generated/music_1766275892.wav"
+    },
+    "favorite": true,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "21e19bef-15bd-4542-907e-129e9f783cc5",
+    "prompt": "A calm peaceful song",
+    "timestamp": "2025-12-21 04:49:00",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "A calm peaceful song",
+    "audio_files": {
+      "wav": "generated/music_1766272740.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "91e307fa-a1f7-49c6-ab28-62a5400fa0d7",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-21 04:45:36",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766272528.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "0a621435-250d-4eb2-9a5a-04fb6af82f18",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-21 04:45:28",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766272528.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "4a8ef5bc-93e8-4d30-8480-7632b22166db",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 04:44:23",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766272444.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "20a7012f-3574-45c3-80be-aa284b9802f6",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 04:44:04",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Balanced (Medium)",
+      "actual_model": "facebook/musicgen-medium",
+      "model_supported": true
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766272444.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "b6efa2ed-427a-4258-a582-c0243447804d",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 04:37:21",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Fast (Small)"
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766272041.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "555dc8f4-238b-4b8a-a785-cb7bbb4bd3b9",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 04:36:04",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Fast (Small)"
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766271964.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "366018ee-c830-4372-b755-1dbf7b3dbd38",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-21 04:31:18",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Fast (Small)"
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766271678.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "3fe6e0d2-918e-4fbe-856e-6bdea1d2c5d2",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-21 04:29:23",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Fast (Small)"
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_1766271563.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "5465fcfd-7a35-42e4-bb2a-571084c2749e",
+    "prompt": "Epic orchestral trailer music",
+    "timestamp": "2025-12-21 04:21:11",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Fast (Small)"
+    },
+    "enhanced_prompt": "Epic orchestral trailer music",
+    "audio_files": {
+      "wav": "generated/music_1766271071.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "e1a3fb51-7e9b-4032-8b80-5d0268163628",
+    "prompt": "Dark synthwave with heavy bass",
+    "timestamp": "2025-12-21 03:56:28",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Dark synthwave with heavy bass",
+    "audio_files": {
+      "wav": "generated/music_1766269588.wav"
+    },
+    "favorite": true,
+    "votes": 0,
+    "feedback": [
+      {
+        "timestamp": "2025-12-21 03:56:53",
+        "rating": 4,
+        "thumbs": null,
+        "category": "🎵 Great melody",
+        "comment": null
+      }
+    ],
+    "quality": null
+  },
+  {
+    "id": "7d55868d-291e-4cc7-89e2-5b286ca0dfd5",
+    "prompt": "Lo-fi chillhop with rainy mood",
+    "timestamp": "2025-12-21 03:51:48",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Lo-fi chillhop with rainy mood",
+    "audio_files": {
+      "wav": "generated/music_1766269308.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [
+      {
+        "timestamp": "2025-12-21 03:52:39",
+        "rating": 3,
+        "thumbs": null,
+        "category": "🥁 Good rhythm",
+        "comment": null
+      }
+    ],
+    "quality": null
+  },
+  {
+    "id": "ca1df10e-5348-4dc8-830c-b2413a056f67",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-21 03:40:42",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766268642.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 83.62,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 96.22,
+        "duration_accuracy": 99.1,
+        "silence_detection": 98.79,
+        "dynamic_range": 82.9,
+        "frequency_balance": 59.25,
+        "energy_level": 49.55,
+        "tempo_detection": 100.0,
+        "spectral_characteristics": 67.19
+      },
+      "analysis": {
+        "quality_level": "Excellent",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Good",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Energy Mismatch",
+        "recommendations": [
+          "Improve frequency balance across spectrum"
+        ]
+      },
+      "file_info": {
+        "duration": 14.82,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 948524
+      },
+      "timestamp": "2025-12-21T03:40:48.319754"
+    }
+  },
+  {
+    "id": "eb16c601-f5d9-4556-abe0-cac1c3212518",
+    "prompt": "Dark synthwave with heavy bass",
+    "timestamp": "2025-12-21 03:37:15",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Dark synthwave with heavy bass",
+    "audio_files": {
+      "wav": "generated/music_1766268435.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 78.89,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 88.34,
+        "duration_accuracy": 99.4,
+        "silence_detection": 99.38,
+        "dynamic_range": 52.44,
+        "frequency_balance": 68.43,
+        "energy_level": 50.05,
+        "tempo_detection": 100.0,
+        "spectral_characteristics": 64.71
+      },
+      "analysis": {
+        "quality_level": "Good",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Needs Improvement",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Energy Mismatch",
+        "recommendations": [
+          "Increase dynamic range - music sounds too flat"
+        ]
+      },
+      "file_info": {
+        "duration": 9.88,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 632364
+      },
+      "timestamp": "2025-12-21T03:37:19.442430"
+    }
+  },
+  {
+    "id": "8fec8920-68f5-45d6-92dd-dc8a19e4d153",
+    "prompt": "Deep EDM bass with energetic beats",
+    "timestamp": "2025-12-21 03:33:45",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Deep EDM bass with energetic beats",
+    "audio_files": {
+      "wav": "generated/music_1766268225.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 88.19,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 87.65,
+        "duration_accuracy": 99.4,
+        "silence_detection": 95.19,
+        "dynamic_range": 95.1,
+        "frequency_balance": 85.08,
+        "energy_level": 77.7,
+        "tempo_detection": 90.0,
+        "spectral_characteristics": 48.67
+      },
+      "analysis": {
+        "quality_level": "Good",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Excellent",
+        "frequency_distribution": "Balanced",
+        "energy_match": "Matches Expected",
+        "recommendations": []
+      },
+      "file_info": {
+        "duration": 9.88,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 632364
+      },
+      "timestamp": "2025-12-21T03:33:52.526472"
+    }
+  },
+  {
+    "id": "841a0ab3-048f-4247-9fd5-54e5d9db488c",
+    "prompt": "Happy ukulele melody for children",
+    "timestamp": "2025-12-21 03:28:55",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Happy ukulele melody for children",
+    "audio_files": {
+      "wav": "generated/music_1766267935.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 72.87,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 92.83,
+        "duration_accuracy": 99.4,
+        "silence_detection": 99.45,
+        "dynamic_range": 67.07,
+        "frequency_balance": 61.9,
+        "energy_level": 67.28,
+        "tempo_detection": 0.0,
+        "spectral_characteristics": 67.42
+      },
+      "analysis": {
+        "quality_level": "Excellent",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Needs Improvement",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Energy Mismatch",
+        "recommendations": [
+          "Increase dynamic range - music sounds too flat",
+          "Improve frequency balance across spectrum"
+        ]
+      },
+      "file_info": {
+        "duration": 9.88,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 632364
+      },
+      "timestamp": "2025-12-21T03:29:57.682277"
+    }
+  },
+  {
+    "id": "2a8dba34-bd62-4190-b06d-4d91a89be3da",
+    "prompt": "Happy ukulele melody for children",
+    "timestamp": "2025-12-21 02:03:47",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Happy ukulele melody for children",
+    "audio_files": {
+      "wav": "generated/music_1766262827.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [
+      {
+        "timestamp": "2025-12-21T02:05:25.194726",
+        "rating": null,
+        "thumbs": null,
+        "categories": [
+          "repetitive"
+        ],
+        "comment": null
+      }
+    ],
+    "quality": {
+      "overall": 81.37,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 90.94,
+        "duration_accuracy": 99.4,
+        "silence_detection": 98.33,
+        "dynamic_range": 95.21,
+        "frequency_balance": 71.63,
+        "energy_level": 71.87,
+        "tempo_detection": 27.5,
+        "spectral_characteristics": 69.57
+      },
+      "analysis": {
+        "quality_level": "Excellent",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Excellent",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Matches Expected",
+        "recommendations": []
+      },
+      "file_info": {
+        "duration": 9.88,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 632364
+      },
+      "timestamp": "2025-12-21T02:04:49.180207"
+    }
+  },
+  {
+    "id": "e054b932-13d4-4fc0-bf6e-45bcbeb711f1",
+    "prompt": "Slow R&B groove with smooth vocals",
+    "timestamp": "2025-12-20 20:39:52",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Slow R&B groove with smooth vocals",
+    "audio_files": {
+      "wav": "generated/music_1766243392.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": {
+      "overall": 80.19,
+      "status": "PASS",
+      "breakdown": {
+        "audio_quality": 91.42,
+        "duration_accuracy": 99.4,
+        "silence_detection": 99.47,
+        "dynamic_range": 72.77,
+        "frequency_balance": 56.0,
+        "energy_level": 51.88,
+        "tempo_detection": 78.57,
+        "spectral_characteristics": 93.67
+      },
+      "analysis": {
+        "quality_level": "Excellent",
+        "duration_match": "Perfect",
+        "dynamic_quality": "Good",
+        "frequency_distribution": "Unbalanced",
+        "energy_match": "Energy Mismatch",
+        "recommendations": [
+          "Improve frequency balance across spectrum"
+        ]
+      },
+      "file_info": {
+        "duration": 9.88,
+        "sample_rate": 32000,
+        "channels": 1,
+        "file_size": 632364
+      },
+      "timestamp": "2025-12-20T20:40:49.702563"
+    }
+  },
+  {
+    "id": "b292501b-f673-465f-9980-53afefdb4bf3",
+    "prompt": "Joyful slow jazz saxophone with piano accompaniment",
+    "timestamp": "2025-12-20 19:04:49",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Joyful slow jazz saxophone with piano accompaniment",
+    "audio_files": {
+      "wav": "generated/music_1766237689.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 37.13226294517517,
+      "file_size": 632364,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "a26e5f41-9295-4bf3-9ae1-9ebe1d45c4bf",
+    "prompt": "Dramatic orchestral cinematic music with brass section in minor key",
+    "timestamp": "2025-12-20 19:05:32",
+    "parameters": {
+      "duration": 10,
+      "energy": 8,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Dramatic orchestral cinematic music with brass section in minor key",
+    "audio_files": {
+      "wav": "generated/music_1766237732.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 40.55308723449707,
+      "file_size": 632364,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "54d41a67-cdad-4604-9598-72f47561ad1a",
+    "prompt": "Slow lo-fi hip hop with vinyl crackle and mellow beats with powerful feeling",
+    "timestamp": "2025-12-20 19:06:11",
+    "parameters": {
+      "duration": 10,
+      "energy": 9,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Slow lo-fi hip hop with vinyl crackle and mellow beats with powerful feeling",
+    "audio_files": {
+      "wav": "generated/music_1766237771.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 37.20088601112366,
+      "file_size": 632364,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "dad8cbb3-e7bd-4cec-81df-dde8022c4b20",
+    "prompt": "Energetic techno music with synthesizers and electronic drums in minor key",
+    "timestamp": "2025-12-20 19:06:53",
+    "parameters": {
+      "duration": 10,
+      "energy": 6,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Energetic techno music with synthesizers and electronic drums in minor key",
+    "audio_files": {
+      "wav": "generated/music_1766237813.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 40.43896746635437,
+      "file_size": 632364,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "5ff62512-a358-4a81-b14e-f01d1d30e3f9",
+    "prompt": "Peaceful ambient piano with soft atmospheric pads in minor key",
+    "timestamp": "2025-12-20 19:08:33",
+    "parameters": {
+      "duration": 15,
+      "energy": 3,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Peaceful ambient piano with soft atmospheric pads in minor key",
+    "audio_files": {
+      "wav": "generated/music_1766237913.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 97.40859699249268,
+      "file_size": 948524,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "a3c2b272-1d8b-4a4c-bc6a-04a98ff1edaa",
+    "prompt": "Acoustic guitar melody with gentle strings with calm atmosphere",
+    "timestamp": "2025-12-20 18:58:57",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Acoustic guitar melody with gentle strings with calm atmosphere",
+    "audio_files": {
+      "wav": "generated/music_1766237337.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 24.577306985855103,
+      "file_size": 632364,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "99f2450b-eb21-4c86-9437-1d8bcdda3ec9",
+    "prompt": "Rock guitar solo with drums and bass with joyful atmosphere",
+    "timestamp": "2025-12-20 18:59:33",
+    "parameters": {
+      "duration": 11,
+      "energy": 7,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Rock guitar solo with drums and bass with joyful atmosphere",
+    "audio_files": {
+      "wav": "generated/music_1766237373.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 34.254626750946045,
+      "file_size": 704044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "d1f709f3-b134-4771-b2a9-a3dd4ed3a9eb",
+    "prompt": "Energetic orchestral cinematic music with brass section in major key",
+    "timestamp": "2025-12-20 19:00:10",
+    "parameters": {
+      "duration": 12,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Energetic orchestral cinematic music with brass section in major key",
+    "audio_files": {
+      "wav": "generated/music_1766237410.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 35.15071415901184,
+      "file_size": 768044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "f95f0e20-e043-41f2-a297-5c86522b2005",
+    "prompt": "Romantic medium trap music with 808 drums and synthesized bass",
+    "timestamp": "2025-12-20 19:00:46",
+    "parameters": {
+      "duration": 13,
+      "energy": 2,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Romantic medium trap music with 808 drums and synthesized bass",
+    "audio_files": {
+      "wav": "generated/music_1766237446.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 33.709914207458496,
+      "file_size": 832044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "5d8404ed-f954-47e3-ae4e-da9e8bb2f067",
+    "prompt": "Mysterious techno music with synthesizers and electronic drums in minor key",
+    "timestamp": "2025-12-20 19:01:25",
+    "parameters": {
+      "duration": 14,
+      "energy": 8,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Mysterious techno music with synthesizers and electronic drums in minor key",
+    "audio_files": {
+      "wav": "generated/music_1766237485.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 36.900907039642334,
+      "file_size": 896044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "793d17ad-42f0-483a-bc38-2a53678ccc0a",
+    "prompt": "Mysterious bossa nova with nylon guitar and soft percussion in minor key",
+    "timestamp": "2025-12-20 19:02:02",
+    "parameters": {
+      "duration": 15,
+      "energy": 8,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Mysterious bossa nova with nylon guitar and soft percussion in minor key",
+    "audio_files": {
+      "wav": "generated/music_1766237522.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 35.46261692047119,
+      "file_size": 948524,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "b2ea9f3b-6e20-4d79-ba91-212f9a6de4c5",
+    "prompt": "New age meditation music with flute and nature sounds with powerful atmosphere",
+    "timestamp": "2025-12-20 19:02:50",
+    "parameters": {
+      "duration": 16,
+      "energy": 3,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "New age meditation music with flute and nature sounds with powerful atmosphere",
+    "audio_files": {
+      "wav": "generated/music_1766237570.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 45.95735549926758,
+      "file_size": 1024044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "856fb73b-7e16-408a-908a-c1ca09cfcc8d",
+    "prompt": "Uplifting synthwave music with retro electronic sounds in major key",
+    "timestamp": "2025-12-20 19:03:39",
+    "parameters": {
+      "duration": 17,
+      "energy": 8,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Uplifting synthwave music with retro electronic sounds in major key",
+    "audio_files": {
+      "wav": "generated/music_1766237619.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 46.59731650352478,
+      "file_size": 1088044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "df657459-b34a-47ba-8fc7-f1233a204059",
+    "prompt": "Very slow heavy metal with electric guitars and double bass with joyful feeling",
+    "timestamp": "2025-12-20 19:04:37",
+    "parameters": {
+      "duration": 18,
+      "energy": 6,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Very slow heavy metal with electric guitars and double bass with joyful feeling",
+    "audio_files": {
+      "wav": "generated/music_1766237677.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 56.62273716926575,
+      "file_size": 1152044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "e8087001-652b-4402-8040-4e8dedb6e6d0",
+    "prompt": "Medium folk music with banjo and harmonica with dramatic feeling",
+    "timestamp": "2025-12-20 19:05:54",
+    "parameters": {
+      "duration": 19,
+      "energy": 1,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Medium folk music with banjo and harmonica with dramatic feeling",
+    "audio_files": {
+      "wav": "generated/music_1766237754.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 74.40635395050049,
+      "file_size": 1216044,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "1e5bed1d-f7d4-4b4f-8116-c21d88b25bb1",
+    "prompt": "Medium lo-fi hip hop with vinyl crackle and mellow beats with uplifting feeling",
+    "timestamp": "2025-12-20 19:07:11",
+    "parameters": {
+      "duration": 20,
+      "energy": 8,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Medium lo-fi hip hop with vinyl crackle and mellow beats with uplifting feeling",
+    "audio_files": {
+      "wav": "generated/music_1766237831.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null,
+    "generation_info": {
+      "generation_time": 75.7501072883606,
+      "file_size": 1264684,
+      "model": "MusicGen Medium",
+      "backend": "Kaggle GPU"
+    }
+  },
+  {
+    "id": "20d5c08a-f00f-4a23-8cba-ebdb0884d724",
+    "prompt": "Romantic acoustic guitar duet",
+    "timestamp": "2025-12-20 18:55:41",
+    "parameters": {
+      "duration": 25,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Romantic acoustic guitar duet",
+    "audio_files": {
+      "wav": "generated/music_8880254511662644277.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "26fddbc5-66ce-45b1-8874-62732ba0d22a",
+    "prompt": "Happy ukulele melody for children",
+    "timestamp": "2025-12-20 18:52:36",
+    "parameters": {
+      "duration": 10,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Happy ukulele melody for children",
+    "audio_files": {
+      "wav": "generated/music_6138076863540754697.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "d0f3aab2-c40b-47fb-a3cc-ebdfffeb2571",
+    "prompt": "Calm ambient piano with soft pads",
+    "timestamp": "2025-12-20 18:50:56",
+    "parameters": {
+      "duration": 20,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Calm ambient piano with soft pads",
+    "audio_files": {
+      "wav": "generated/music_275107205817760155.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  },
+  {
+    "id": "54a61bbd-5b29-4d37-b97f-85fe567b6c97",
+    "prompt": "Romantic acoustic guitar duet",
+    "timestamp": "2025-12-20 18:49:44",
+    "parameters": {
+      "duration": 15,
+      "energy": 5,
+      "model_choice": "Medium"
+    },
+    "enhanced_prompt": "Romantic acoustic guitar duet",
+    "audio_files": {
+      "wav": "generated/music_8880254511662644277.wav"
+    },
+    "favorite": false,
+    "votes": 0,
+    "feedback": [],
+    "quality": null
+  }
+]
